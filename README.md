@@ -1,4 +1,4 @@
-# sym_iterative_feistel_xipher
+# sym_iterative_feistel_xipher [CUDA]
 Symmetric Iterative Feistel Xipher
 
 encryption.cuh contains the functions for performing the work of encryption and decryption. The amount of work for both permute64 and unpermute64 can be controlled via num_iters.
